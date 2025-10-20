@@ -55,7 +55,9 @@ docker run -p 3000:3000 your-username/nodejs-cicd-app:latest
 
 
 ### GitHub Actions CI/CD Workflow
-<img width="326" height="524" alt="image" src="https://github.com/user-attachments/assets/08e01e23-acea-4fe0-9018-6aa7b89363fd" />
+<img width="1019" height="358" alt="image" src="https://github.com/user-attachments/assets/c1c24418-346a-455d-bc5d-d6157399af7e" />
+
+<img width="701" height="576" alt="image" src="https://github.com/user-attachments/assets/8ca1fb28-9d1d-4e95-bb2b-d3bd4047fa32" />
 
 
 # nodejs-demo-app
