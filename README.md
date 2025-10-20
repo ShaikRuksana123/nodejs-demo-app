@@ -51,6 +51,7 @@ docker run -p 3000:3000 your-username/nodejs-cicd-app:latest
 
 ## Results
 ### Tests 
+<img width="585" height="82" alt="image" src="https://github.com/user-attachments/assets/36df6975-22ea-485c-a483-c5b93219a0f5" />
 
 
 ### GitHub Actions CI/CD Workflow
